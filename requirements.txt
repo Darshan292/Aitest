@@ -4,6 +4,8 @@ sentence-transformers
 pandas 
 tqdm
 matplotlib
+unstructured
+
 
 !apt-get install -y poppler-utils
 
