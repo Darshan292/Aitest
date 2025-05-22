@@ -1,8 +1,3 @@
-!pip install pdfplumber qdrant-client sentence-transformers pandas tqdm --quiet
-
-!pip install matplotlib
-!apt-get install -y poppler-utils
-
 from google.colab import files
 uploaded = files.upload()
 
