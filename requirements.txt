@@ -1,0 +1,9 @@
+pdfplumber
+qdrant-client 
+sentence-transformers 
+pandas 
+tqdm
+matplotlib
+
+!apt-get install -y poppler-utils
+
